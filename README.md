@@ -1,4 +1,4 @@
-[![MasterHead]((https://images.app.goo.gl/HWCq7ku4Cf1VKDgTA)
+[![MasterHead](https://images.app.goo.gl/HWCq7ku4Cf1VKDgTA)
 <h1 align="center">Hello, I'm Olamilekan Moses Ajakaiye</h1>
 <h3 align="center">I'm a cybersecurity enthusiast with passion for penetration testing and ethical hacking.</h3>
 
